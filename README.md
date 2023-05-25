@@ -62,7 +62,7 @@ pip install pandas
 
 ## 2. Scraping the World Wide Web
 
-| Activity Time: 0:30 | Elapsed Time: 1:10 | 
+| Activity Time: 0:30 | Elapsed Time: 0:50 | 
 |---------------------|--------------------|
 
 <details>
@@ -76,7 +76,7 @@ pip install pandas
 
 ## 3. Splinter
 
-| Activity Time: 0:30 | Elapsed Time: 1:40 | 
+| Activity Time: 0:30 | Elapsed Time: 1:20 | 
 |---------------------|--------------------|
 
 <details>
@@ -90,7 +90,7 @@ pip install pandas
 
 ## 4. Data Collection
 
-| Activity Time: 0:20 | Elapsed Time: 0:40 | 
+| Activity Time: 0:20 | Elapsed Time: 1:40 | 
 |---------------------|--------------------|
 
 <details>
