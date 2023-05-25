@@ -68,7 +68,7 @@ pip install pandas
 
 ## 2. Scraping the World Wide Web
 
-| Activity Time: 0:30 | Elapsed Time: 0:50 | 
+| Activity Time: 0:25 | Elapsed Time: 0:45 | 
 |---------------------|--------------------|
 
 <details>
@@ -79,19 +79,19 @@ pip install pandas
 </details>
 
 <details>
-<summary><strong>2.2 Scraping the World Wide Web (15 min)</strong></summary>
+<summary><strong>2.2 Webscraper (20 min)</strong></summary>
 
 **Site**: [Laptops Site](https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops)
 
-**Starter** : [2_1_Scraping_the_World_Wide_Web.ipynb](Activites%2F2_1_Scraping_the_World_Wide_Web%2FUnsolved%2F2_1_Scraping_the_World_Wide_Web.ipynb)
+**Starter** : [2_2_Webscraper.ipynb](Activites%2F2_2_Webscraper%2FUnsolved%2F2_2_Webscraper.ipynb)
 
-**Solution** : [2_1_Scraping_the_World_Wide_Web.ipynb](Activites%2F2_1_Scraping_the_World_Wide_Web%2FSolved%2F2_1_Scraping_the_World_Wide_Web.ipynb)
+**Solution** : [2_2_Webscraper.ipynb](Activites%2F2_2_Webscraper%2FSolved%2F2_2_Webscraper.ipynb)
 
 </details>
 
 ## 3. Splinter
 
-| Activity Time: 0:30 | Elapsed Time: 1:20 | 
+| Activity Time: 0:30 | Elapsed Time: 1:15 | 
 |---------------------|--------------------|
 
 <details>
@@ -118,11 +118,11 @@ pip install pandas
 
 ## 4. Data Collection
 
-| Activity Time: 0:20 | Elapsed Time: 1:40 | 
+| Activity Time: 0:25 | Elapsed Time: 1:40 | 
 |---------------------|--------------------|
 
 <details>
-<summary><strong>4.1 Framing the Quotes (20 min)</strong></summary>
+<summary><strong>4.1 Framing the Quotes (25 min)</strong></summary>
 
 **Site** : [Quotes to Scrape](http://quotes.toscrape.com/)
 
