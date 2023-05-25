@@ -1,9 +1,14 @@
 # Data-Collection-and-Web-Scraping
-A Study Session on Data Collection and Web Scraping
 
 ## Overview
+A Study Session on Data Collection and Web Scraping
 
 ## Learning Objectives
+
+* Use Beautiful Soup to parse HTML.
+* Scrape websites using Beautiful Soup.
+* Automate scraping using Splinter
+* Collect and organize scraped data in a Pandas Data Frame 
 
 ## 0. Prework
 
@@ -13,6 +18,7 @@ A Study Session on Data Collection and Web Scraping
 The following tools and packages are required for the successful working of the activities: 
 
 * `Chrome Driver`
+* `Beautiful Soup`
 * `splinter`
 *  `html5lib`
 *  `lxml`
@@ -21,6 +27,7 @@ The following tools and packages are required for the successful working of the 
 [Installation instructions for Chrome Driver](https://splinter.readthedocs.io/en/latest/install/external.html)
 
 ```shell
+pip install beautifulsoup4
 pip install "splinter[selenium4]"
 pip install html5lib
 pip install lxml
