@@ -42,6 +42,13 @@ pip install pandas
 
 </details>
 
+<details>
+<summary><strong>0.2 Installation Check </strong></summary>
+
+Run the [Installation Check](Activites%2F0_2_Installation_Check%2FSolved%2F0_2_Installation_Check.ipynb) to verify all installations. Install packages as seemed necessary.
+
+</details>
+
 
 ## 1. HTML, CSS and ~~Javascript~~ Scraping
 
